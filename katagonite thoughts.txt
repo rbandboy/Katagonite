@@ -1,0 +1,54 @@
+>Light Ducts
+>>solar input
+
+>Wall Crystal Torches
+>>ceiling?
+>>TODO: get torch code
+
+>Daylight Cycle Reader
+>>redstone output?
+>>lunar output?
+
+>Enervation Interface
+>>input electricity, get light
+>>>CSDR: show lighting paths?
+>>>>THOUGHT: heating element lines (re: charged certus)
+>>>>>CSDR: Sterling Cauldron (re: thaumcraft)
+>>>>>>light fire below, heats paths
+
+>Mob Hostility
+>>TODO: get mob burning code
+>>>TODO: get torch code
+>>>TODO: get magma cream code
+
+>TODO: Decide color
+>>TODO: Decide if xycraftian, or if can be dyed
+
+>TODO: Ore Rarity
+>>CSDR: Different crystal strength
+>>>CSDR: Darkzone Katagonite
+>>>>TODO: Light+Dark Interaction
+>>>>CSDR: L+D Dimmer Switch
+>>TODO: Ore height map
+
+>TODO: Decorative blocks
+>>CSDR: Gold Trim
+>>>THOUGHT: cannot hold heat
+>>CSDR: "Lava"(Magma?) Trim
+>>>THOUGHT: iron trim, but blackened by heating treatment (re: cast iron)
+>>>>THOUGHT: get anvil texture
+
+>THOUGHT: shaping crystal
+>>(re: lava crystal)
+>>combining lava and katagonite for a framing tool
+>>cools down into obsidian shards
+>>consider multiple to a crafting?
+>>output of turning into obsidian if water poured onto
+>>>TODO: mod interactions, re: heat extraction
+
+>THOUGHT: Obsidi Iron
+>>TODO: GET BETTER NAME!
+>>Treated iron (re: shaping crystal)
+>>THOUGHT: change block to 8 ingots
+>>>will stack better
+>>>easier to craft shapeless (8 iron + 1 shaping crystal shapeless = 1 block, 1 block shapeless = 8 wrought iron)
